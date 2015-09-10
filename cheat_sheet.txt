@@ -1,8 +1,3 @@
-Change to branch
-$ git checkout <branchname>
-
-Create branch
-$ git branch <branchname>
 
 
 Reset local changes
@@ -20,9 +15,6 @@ $ git reset <commit> // commit ID
 
 	options:
 	--hard // remove changes
-
-Amend last commit
-$ git commit -amend
 
 Differences
 $ git diff
