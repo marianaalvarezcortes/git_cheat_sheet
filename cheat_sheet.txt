@@ -1,4 +1,17 @@
-Project Status s
+
+Create alias
+$ git config alias.lg 'log --graph --online --decorate --all'
+
+Check Repo History
+$ git log
+	options:
+	--graph // branch graph
+	--oneline
+	--decorate 
+	-p	// changes
+	-1	// number of lines
+
+Project Status
 $ git status 
 
 Add file to stage
