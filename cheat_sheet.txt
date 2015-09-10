@@ -1,4 +1,27 @@
 
+
+Reset local changes
+$ git checkout
+	options:
+	-- <filename> // reset local change on file
+
+Reset the stage
+$ git reset HEAD
+	options
+	<filename> // unstaged file
+
+Remove commit
+$ git reset <commit> // commit ID
+
+	options:
+	--hard // remove changes
+
+Differences
+$ git diff
+	options:
+	$ git diff  --staged // changes between stage and last commit
+
+
 Create alias
 $ git config alias.lg 'log --graph --online --decorate --all'
 
