@@ -1,4 +1,13 @@
-//Setup Git
+Project Status s
+$ git status 
+
+Add file to stage
+$ git add
+
+Commit file
+$ git commit -m "message" 
+
+Setup Git
 $ git config --global user.name "<name>"
 $ git config --global user.email <email>
 
