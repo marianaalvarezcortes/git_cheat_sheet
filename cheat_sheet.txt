@@ -1,4 +1,8 @@
-random stuff 3
+Mergetool
+$ git mergetool
+
+Merge branch
+$ git merge <branchname>
 
 Change to branch
 $ git checkout <branchname>
