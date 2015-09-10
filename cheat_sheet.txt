@@ -1,4 +1,4 @@
-random stuff
+random stuff 3
 
 Change to branch
 $ git checkout <branchname>
