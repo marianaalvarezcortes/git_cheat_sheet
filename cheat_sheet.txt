@@ -1,4 +1,7 @@
-hdhdhdhd
+random stuff 3
+
+Change to branch
+$ git checkout <branchname>
 
 Reset local changes
 $ git checkout
