@@ -1,4 +1,5 @@
-
+Change to branch
+$ git checkout <branchname>
 
 Create branch
 $ git branch <branchname>
